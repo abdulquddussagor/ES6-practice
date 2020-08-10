@@ -1,6 +1,6 @@
 //Arrow function , multiple parameter , function body:
 
-//normal procedure:
+//normal procedure method:
 /*function double(num){
     return num*2;
 }
