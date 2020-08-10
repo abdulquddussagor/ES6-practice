@@ -1,6 +1,6 @@
 //class,constructor,create object from class:
 class Student {
-    constructor(sId,sName){
+    constructor (sId,sName) {
         this.id=sId;
         this.name=sName;
         this.school="public school";//default value(eta ichha korle dewa jai.mainly use kora hoi jokhon sob object property er same value hoi).
