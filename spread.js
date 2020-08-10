@@ -6,7 +6,7 @@ const ages2 = [25,30,32];
 //console.log(allAges);
 
 //ES6(spread operator):
-const allAges=[...ages,...ages1,5,...ages2];
+const allAges = [...ages,...ages1,5,...ages2];
 console.log(allAges);
 
 const sagor=1000;
