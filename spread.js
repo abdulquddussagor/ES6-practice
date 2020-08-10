@@ -17,4 +17,4 @@ console.log(max);
 
 const takaPoisha=[600,300,200];
 const max1=Math.max(...takaPoisha);
-console.log(max1);
+console.log(max1)
