@@ -12,6 +12,6 @@ class child extends parent{
         return this.name + " " + this.fatherName;
     }
 }
-const baby=new child("arnold");
+const baby = new child("arnold");
 console.log(baby);
 console.log(baby.getFullName());
