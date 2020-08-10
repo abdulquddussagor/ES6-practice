@@ -3,7 +3,7 @@ const person = {name:"samrin",age:21,job:"google",bfName:"sagor",bfSalary:50000}
 const{age,job}=person;
 console.log(age,job);
 
-//old style:
+//old method:
 //const age=person.age;
 //const job=person.job;
 
