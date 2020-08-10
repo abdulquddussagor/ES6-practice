@@ -11,4 +11,4 @@ console.log(fullName);
 //const love = "i love you\n"+"i need you";
 const love1 = `i love you 
 i miss you everyday`;
-console.log(love1);
+console.log(love1)
